@@ -9,7 +9,7 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1648400395/wallhaven-4v32r5_vtploh.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1649429050/wallhaven-4v7ve3_ovdwqq.jpg"
         data-setup
         loop
       >
