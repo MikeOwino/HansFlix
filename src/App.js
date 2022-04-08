@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nl35.seedr.cc/ff_get/1140221661/Curious.George.Cape.Ahoy.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv?st=V-DAne8Wjv1TuIXQwiLyxQ&e=1649139196"
+          src="https://res.cloudinary.com/weknow-creators/video/upload/v1649429200/1434659607842-pgv4ql-1644333194892_gbiqyp.mp4"
           type="video/mp4"
         />
       </video>
